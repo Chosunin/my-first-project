@@ -1,0 +1,3 @@
+git push -u origin choinsun/f2
+remote: Permission to daheenamic/3team_fork_test.git denied to Chosunin.
+fatal: unable to access 'https://github.com/daheenamic/3team_fork_test.git/': The requested URL returned error: 403
